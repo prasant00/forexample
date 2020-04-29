@@ -1,3 +1,1 @@
-module github.com/prasant00/forexample
-
-go 1.14
+module github.com/robteix/testmod/v2
